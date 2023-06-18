@@ -1,5 +1,5 @@
 # NC_example
-Network Calculus (NC) code written in Matlab
+Network Calculus (NC) code written in Python and Matlab (Example)
 
 Optimal Resource Allocation with Delay Guarantees for Network Slicing in Disaggregated RAN
 
